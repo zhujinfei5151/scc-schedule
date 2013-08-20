@@ -8,15 +8,15 @@
 	<version>1.0.0</version>
 	<dependencies>
 		<dependency>
-			  <groupId>com.taobao.pamirs.schedule</groupId>
-        <artifactId>tbschedule</artifactId>
-        <version>3.2.5</version>
-        <exclusions>
-        	<exclusion>
-        		<artifactId>junit</artifactId>
-        		<groupId>junit</groupId>
-        	</exclusion>
-        </exclusions>
+			<groupId>com.taobao.pamirs.schedule</groupId>
+        	<artifactId>tbschedule</artifactId>
+        	<version>3.2.5</version>
+	        <exclusions>
+	        	<exclusion>
+	        		<artifactId>junit</artifactId>
+	        		<groupId>junit</groupId>
+	        	</exclusion>
+	        </exclusions>
 		</dependency>
 	</dependencies>
 
